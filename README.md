@@ -1,18 +1,21 @@
-### Â²¤¶
+### ç°¡ä»‹
 
-¨Ï¥Î Github Issues + Projects
+ä½¿ç”¨ Github Issues + Projects
 
-## ³¡¸¨®æ¤ÀÃş
+## éƒ¨è½æ ¼åˆ†é¡
 
-³¡¸¨®æ¥D­n¤À¬°´XÃş
+éƒ¨è½æ ¼ä¸»è¦åˆ†ç‚ºå¹¾é¡
 
 * [Ruby](https://github.com/Kevinw3i/blog/projects/1)
-
-## ¥D­n¤å³¹
-
-- [¨Ï¥ÎIssue¨Ó¼gRuby¤å³¹](https://github.com/Kevinw3i/blog/issues/1)
+* [Ruby on Rails](https://github.com/Kevinw3i/blog/projects/3)
+* [Life](https://github.com/Kevinw3i/blog/projects/2)
 
 
-## Ãö©ó§Ú
+## ä¸»è¦æ–‡ç« 
 
-¼K¼K¼K
+- [](https://github.com/Kevinw3i/blog/issues/1)
+
+
+## é—œæ–¼æˆ‘
+
+å˜¿å˜¿å˜¿ å› ç‚ºæˆ‘å¾ˆé–’æ‰€ä»¥ä»€éº¼éƒ½æƒ³åšåšçœ‹
