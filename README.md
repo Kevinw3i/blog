@@ -8,7 +8,10 @@
 
 * [Ruby](https://github.com/Kevinw3i/blog/projects/1)
 * [Ruby on Rails](https://github.com/Kevinw3i/blog/projects/3)
+* [Web](https://github.com/Kevinw3i/blog/projects/5)
+
 * [Life](https://github.com/Kevinw3i/blog/projects/2)
+
 * [Stock and Futures](https://github.com/Kevinw3i/blog/projects/4)
 
 ## 主要文章
